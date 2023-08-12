@@ -1,4 +1,4 @@
-package github.com/junjiefly/welcome
+package welcome
 
 import "fmt"
 
