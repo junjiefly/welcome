@@ -8,6 +8,6 @@ const welcome = "======================================================" +
 	"The author will be extremely grateful. Thank you." +
 	"======================================================"
 
-func Welcome() {
+func Print() {
 	fmt.Println(welcome)
 }
